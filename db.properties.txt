@@ -1,0 +1,3 @@
+drv=oracle
+user=venky
+pwd=password
